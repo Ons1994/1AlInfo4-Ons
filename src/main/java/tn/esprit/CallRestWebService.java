@@ -38,6 +38,7 @@ public class CallRestWebService {
 			System.out.println("ip : " + ip); 
 			
 			//test
+			//test2
 
 		} catch (IOException e) {
 			e.printStackTrace();
